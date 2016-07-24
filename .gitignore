@@ -3,3 +3,8 @@ _publish
 node_modules
 js/lib
 .bundle
+
+Gemfile
+Gemfile.lock
+.ruby-gemset
+.ruby-version
